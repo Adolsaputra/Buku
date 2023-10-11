@@ -1,0 +1,11 @@
+{
+  "name": "visualisasi-buku",
+  "version": "1.0.0",
+  "description": "Visualisasi buku dengan efek halaman yang bisa dibuka dan ditutup",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ADOL SAPUTRA",
+  "license": "MIT"
+}
